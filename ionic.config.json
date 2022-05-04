@@ -1,5 +1,7 @@
 {
   "name": "poke",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

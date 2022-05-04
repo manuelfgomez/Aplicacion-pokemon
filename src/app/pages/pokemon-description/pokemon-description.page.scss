@@ -1,0 +1,23 @@
+.card{
+    width: 100%;
+    .title{
+        text-align: center;
+        font-weight: bold;
+    }
+    .img{
+        object-fit: contain;
+        height: 150px;
+    }
+    
+}
+.row-grid{
+    margin: 15px;
+}
+.row-grid{
+    .row{
+        width: 100%;
+        .bold{
+            font-weight: bold;
+        }
+    }
+}
